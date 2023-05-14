@@ -1,1 +1,7 @@
 _pycache_/
+
+*.env
+ 
+node_modules/
+
+!hello.env
